@@ -46,7 +46,7 @@ OR extend and bring your favorite models to the same experience.
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/your-username/openjourney.git
+git clone https://github.com/ammaarreshi/openjourney.git
 cd openjourney/openjourney-app
 npm install
 ```
